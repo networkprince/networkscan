@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Script de socket
+#Script de scan port utilizando socket
 
 import socket,sys
 from alive_progress import alive_bar
